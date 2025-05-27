@@ -1,0 +1,21 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Firebase
+GoogleService-Info.plist
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Swift Package Manager
+.build/
